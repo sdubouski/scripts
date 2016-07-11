@@ -1,0 +1,5 @@
+{   "name": "Third plugin",
+    "version": "0.1",
+    "description": "This is my third plugin",
+    "body":{}
+}
